@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmetcan Pektaş</h1>
 <h3 align="center">I am a self-improving Computer Engineering student from Turkey.</h3>
-<img align= "right" alt = "Coding" width = "400" src = "https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif">
+<img align= "right" alt = "Coding" width = "300" src = "https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pektasch&label=Profile%20views&color=0e75b6&style=flat" alt="pektasch" /> </p>
